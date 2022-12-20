@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/sharmin-akther-data-analyst/
 [Email]: mailto:akthersr@gmail.com
 
+.
+
